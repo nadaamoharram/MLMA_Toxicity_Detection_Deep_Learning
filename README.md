@@ -9,7 +9,7 @@ Group Members: Bella Davies, Nadaa Moharram, Ishani Cheshire
 - /EDA contains code to combine datasets, clean datasets, and conduct exploratory data analysis on the training dataset.
 - /Modeling contains code for the baseline and fine-tuned deep learning models.
 
-## Contributions:
+## Contributions (To be updated) :
 Bella
 - Background: Siddiqui et al. (2024), Wong et al. (2024), 
 - Data Collection: Ousidhoum et al., (2019) multilingual hate speech dataset (MLMA), Davidson et al. (2017) english dataset, Sachdeva et al. (2022) english dataset, Mandl et al., (2019) HASOC english dataset 
@@ -18,13 +18,15 @@ Bella
 - Train test split: Iterative train test split for class imbalance
 Choosing evaluation metrics for imbalanced data: macro f1 and balanced accuracy
 - Modeling: Modeling/Baseline_mBERT.ipynb, Modeling/FineTuning_mBERT.ipynb
+
 Nadaa
 - Introduction
 - Background: Srikissoon and Marivate, (2023),
 - Data Collection: Zaghouani et al. (2024) arabic dataset, Tonneau french dataset
 - Data Cleaning: Combine datasets, shuffle combined dataset
 - Modeling: Baseline classification model, xlmRoBERTa baseline and fine-tuning
-- Ishani
-Background:  Jahan and Oussalah, (2023), Tonneau et al. (2024) 
+
+Ishani
+- Background:  Jahan and Oussalah, (2023), Tonneau et al. (2024) 
 - EDA on MLMA dataset: Distributions of classes
 - Modeling: RemBERT baseline and fine-tuning
