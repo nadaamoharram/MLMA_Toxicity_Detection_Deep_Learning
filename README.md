@@ -17,7 +17,7 @@ Bella
 - EDA on final combined training dataset: Distributions of classes, distribution of text lengths, correlation and co-occurrence matrices, language differences per class
 - Train test split: Iterative train test split for class imbalance
 Choosing evaluation metrics for imbalanced data: macro f1 and balanced accuracy
-- Modeling: Modeling/Baseline_mBERT.ipynb, Modeling/FineTuning_mBERT.ipynb
+- Modeling: Modeling/Baseline_mBERT.ipynb, Modeling/FineTuning_mBERT.ipynb, Modeling/Hierarchical_mBERT_with_LIME_Explanations.ipynb
 
 Nadaa
 - Introduction
