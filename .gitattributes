@@ -1,2 +1,4 @@
 data/*.csv filter=lfs diff=lfs merge=lfs -text
-*.ipynb filter=lfs diff=lfs merge=lfs -text
+Test_Predictions_and_LIME_Explanations/English_LIME_Explanations.ipynb filter=lfs diff=lfs merge=lfs -text
+Test_Predictions_and_LIME_Explanations/French_LIME_Explanations.ipynb filter=lfs diff=lfs merge=lfs -text
+Test_Predictions_and_LIME_Explanations/Arabic_LIME_Explanations.ipynb filter=lfs diff=lfs merge=lfs -text
