@@ -4,6 +4,8 @@ Detecting harmful content is critical for user safety and moderation on social m
 
 Group Members: Bella Davies, Nadaa Moharram, Ishani Cheshire
 
+Presentation Link: https://docs.google.com/presentation/d/1EcGKn1onkD6ttvpIeHXXl_ECrRhO9o4W5S_gfpIDWvE/edit?usp=sharing 
+
 ## Folder Structure:
 - **/Data** contains Raw Data files and combined dataset splits.
 - **/EDA** contains code to combine datasets, clean datasets, and conduct exploratory data analysis on the training dataset.
